@@ -3,7 +3,7 @@ const reviews = [{
         name: "Natthaphon Foithong",
         job: "Graphic design | wed developer",
         img: "./assets/images/person-profile.png",
-        text: "Graphic Design with 8+ years of experience in the management of the complete design process, from conceptualization to delivery. Able to stretch the boundaries of web design and photography to help client's brands stand out",
+        text: "Graphic Design with 8+ years of experience in the management of the complete design process, from conceptualization to delivery. Able to stretch the boundaries of web design and photography to help client's brands stand out.",
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ const reviews = [{
         name: "Andy Vikayanon",
         job: "Cybersecurity Doctoral Candidate and CompTIA SME",
         img: "https://media-exp1.licdn.com/dms/image/C4E03AQEX55rEdBCeUQ/profile-displayphoto-shrink_200_200/0/1612937584128?e=1648080000&v=beta&t=BE91MH-4CqIJywSjZyNoW4OHc47Js9vBo0ln6da2tZs",
-        text: "Andy is an experienced Cyber Security professional with a strong background working with Financial Institutions. He is the first person from Thailand selected to be CompTIA Subject Matter Expert (SME) for CompTIA Security+ Exam (SY0-601). He has led various IT projects such as Cloud Migration and User Account Auditing",
+        text: "Andy is an experienced Cyber Security professional with a strong background working with Financial Institutions. He is the first person from Thailand selected to be CompTIA Subject Matter Expert (SME) for CompTIA Security+ Exam (SY0-601). He has led various IT projects such as Cloud Migration and User Account Auditing.",
     },
     {
         id: 4,
