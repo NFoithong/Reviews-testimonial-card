@@ -1,0 +1,13 @@
+/* body {
+    margin: 0 auto;
+    text-align: center;
+} */
+
+.card {
+    /* padding-bottom: 30px; */
+    padding: 30px 50px 30px 50px;
+}
+
+img {
+    border-radius: 50%;
+}
