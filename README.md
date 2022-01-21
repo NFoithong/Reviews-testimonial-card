@@ -13,4 +13,4 @@ Create a Review or testimonial card.
 - Bootstrap
 
 ## Screen demo
-![demo-clip](source/video-clip-demo.gif)
+![video-clip-demo](https://user-images.githubusercontent.com/69065671/150467121-8b0d264c-6d01-4ff0-9b37-d951d5094acd.gif)
